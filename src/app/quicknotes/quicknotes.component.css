@@ -1,0 +1,16 @@
+.center{
+    text-align: center;
+    color: black;
+    margin-bottom: 80px;
+}
+mat-card-title{
+    text-align: center;
+    font-weight: bold;
+}
+mat-form-field{
+    color: black;
+}
+p{
+    color: black; 
+}
+
